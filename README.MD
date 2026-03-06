@@ -6,7 +6,7 @@ Minimal Conky widget that displays your screen time for the current session.
 
 ## Preview
 
-![Demo](demo.gif)
+![Screenshot](screenshot.png)
 
 ## Features
 
