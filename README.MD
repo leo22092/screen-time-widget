@@ -1,3 +1,5 @@
+MIT License | Linux | Bash | Conky
+
 # Linux Screen Time Widget
 
 Minimal Conky widget that displays your screen time for the current session.
@@ -27,3 +29,6 @@ Run the widget:
 ```bash
 conky -c ~/.screen_time_widget/screen_time.conkyrc
 ```
+## License
+
+This project is licensed under the MIT License.
